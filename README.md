@@ -18,7 +18,7 @@ Welcome to **NotCoin WebApp**, a simple and intuitive platform designed for seam
 1. Clone the repository:
     
 bash
-    git clone https://github.com/your-username/notcoin-webapp.git
+    git clone [https://github.com/your-username/notcoin-webapp.git](https://github.com/santrichm/NotCoin-WebAPP.git)
    
 2. Navigate to the project directory:
     
